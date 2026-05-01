@@ -78,7 +78,7 @@ Nginx Web Server
 
 ## Demo
 
- [Watch Demo Video](./Secure Azure Cloud Infrastructure with Terraform.mp4)
+ [Watch Demo Video]([./Secure Azure Cloud Infrastructure with Terraform.mp](https://github.com/Lola-source2/Linux-Server-Project/blob/main/Secure%20Azure%20Cloud%20Infrastructure%20with%20Terraform.mp4))
 
 
 # Deployment Steps
