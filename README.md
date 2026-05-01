@@ -78,7 +78,7 @@ Nginx Web Server
 
 ## Demo
 
- [Watch Demo Video](./sec.mp4)
+ [Watch Demo Video](./Secure Azure Cloud Infrastructure with Terraform.mp4)
 
 
 # Deployment Steps
