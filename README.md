@@ -76,6 +76,10 @@ Microsoft Azure
 Linux (Ubuntu)
 Nginx Web Server
 
+## Demo
+
+ [Watch Demo Video](./sec.mp4)
+
 
 # Deployment Steps
 terraform init
